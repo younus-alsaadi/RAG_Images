@@ -1,10 +1,12 @@
 # RAG_Images
 
-This is a implementation of the Retrieval-Augmented Generation (RAG) on Images .
+This is a implementation of the Retrieval-Augmented Generation (RAG) on Images.
+This project uses vision-language models to improve Retrieval-Augmented Generation (RAG) for PDFs 
+that contain images, charts, and other multimodal or domain-specific content.
 
 ## Requirements
 
-- Python 3.8 or later
+- Python 3.12 or later
 
 ### Install Python using MiniConda
 
