@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+bitsandbytes
+accelerate>=0.21.0,<1.0
+transformers>=4.46.0
+safetensors>=0.4.2
+timm
+SentencePiece
+pdf2image
+pymupdf
+peft==0.14.0
+qwen-vl-utils[decord]==0.0.8
+flash-attn
+
